@@ -18,3 +18,7 @@
 ## 右下三角形
 
 ![](https://i.imgur.com/y1dD43D.png)
+
+## 對稱菱形
+
+![](https://i.imgur.com/aOTT6ZM.png?1)
