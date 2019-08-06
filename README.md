@@ -6,13 +6,13 @@
 ----
 
 ##左上三角形
-![](https://imgur.com/i7PjDNb)
+![](https://i.imgur.com/i7PjDNb.png)
 
 ##左下三角形
-![](https://imgur.com/FvBQVx3)
+![](https://i.imgur.com/FvBQVx3.png)
 
 ##右上三角形
-![](https://imgur.com/oOk59Ap)
+![](https://i.imgur.com/oOk59Ap.png)
 
 ##右下三角形
-![](https://imgur.com/y1dD43D)
+![](https://i.imgur.com/y1dD43D.png)
